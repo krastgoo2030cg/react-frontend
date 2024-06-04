@@ -17,4 +17,6 @@ export const removeCustomer = (id) => axios.delete(CUSTOMER_BASE_URL + '/' + id)
 
 // create a function that takes a string and return it backwards
 
+// Write something to test repository on GitHub
+
 
